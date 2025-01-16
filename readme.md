@@ -8,4 +8,4 @@ Repositorio Público para la clase de PCD (Enero-Abril 2025), materia como requi
 ## Tareas
 En esta sección se podrá acceder a las tareas del alumno LUIS FELIPE RANGEL SALAZAR, Matrícula: 1454937.
 
-- [Participación](PCD_Tarea1_Participacion.ipynb) y [Tarea 1](PCD_Tarea1.ipynb) Sesión 1: Análisis de Texto. Introducción.
+- [Participación](PCD_Tarea1_Participacion.ipynb), [Tarea 1](PCD_Tarea1.ipynb), [Reporte Markdown](PCD_Tarea1_Reporte.ipynb) y [Reporte PDF](PCD_Tarea1_Reporte.pdf) **Sesión 1:** Análisis de Texto. Introducción.
