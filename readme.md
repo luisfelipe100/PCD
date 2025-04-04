@@ -13,3 +13,5 @@ En esta sección se podrá acceder a las tareas del alumno LUIS FELIPE RANGEL SA
 - [Tarea 3](PCD_Tarea3.ipynb), [Reporte en PDF](Clasificación_de_artículos_de_E_commerce_basada_en_su_descripción.pdf) **Sesión 3:** Análisis de Texto. Clasificación.
 - [Tarea 4](PCD_Tarea4.ipynb) **Sesión 4:** Análisis de Imágenes.
 - [Tarea 5](PCD_Tarea5.ipynb) **Sesión 5:** Análisis de Imágenes. CNN.
+- [Tarea 6](PCD_Tarea6.ipynb) **Sesión 6:** Comparación Estadística de Audios.
+- [PIA](PCD_ProyectoFinal.ipynb) **Proyecto Final:** Clasificación de libros en base a su descripción en Inglés.
